@@ -84,3 +84,4 @@ production:
   database: backend_apartment_app_remake_production
   username: backend_apartment_app_remake
   password: <%= ENV["BACKEND_APARTMENT_APP_REMAKE_DATABASE_PASSWORD"] %>
+  url: <%= ENV['DATABASE_URL'] %>
