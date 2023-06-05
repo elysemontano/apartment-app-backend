@@ -1,4 +1,11 @@
-# Setup Process
+# 🏘 Apartment App
+
+This apartment application was built to completely build out new curriculum shift and aid in documentation process to implement JWT.  Full CRUD was implemented and styling is reflective of [Figma wireframe](https://www.figma.com/file/If1WCghFfg5Balueeb2Tgv/Apartment-App?type=design&node-id=0%3A1&t=vKzKbBadzMqaOlfb-1) created for students and updated with updated color and images.
+
+## Deployment
+Deployment was done through Render. Link can be found: [Apartment App](https://apartment-app-frontend.onrender.com/)
+
+## Setup Process
 Documentation process followed: [Authenticate User with Devise Gem and Devise JWT in React Application by Villy Siu](https://medium.com/@villysiu/authenticate-user-with-devise-gem-and-devise-jwt-in-react-application-1-2-a869477a2cb3)
 
 Create Rails app:
